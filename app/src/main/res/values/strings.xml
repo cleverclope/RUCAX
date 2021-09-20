@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RUCAX</string>
+    <string name="rucax">RUCAX</string>
+    <string name="rucax2">Ruhinda Community Academic Excellence Awards</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Recognition</string>
+    <string name="title_notifications">Partners</string>
+    <string name="partners">Partners</string>
+    <string name="recognition">Recognition</string>
+    <string name="rucax3">RUCAX Mission</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About RUCAX</string>
+    <string name="contacts">About Us</string>
+</resources>
